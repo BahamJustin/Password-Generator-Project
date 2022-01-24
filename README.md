@@ -9,3 +9,4 @@ A website that generates a random password with selected criteria.
 - Javascript
 
 ## Website
+https://bahamjustin.github.io/Password-Generator-Project/
